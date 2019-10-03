@@ -15,6 +15,6 @@ creat a branch.
 
 fast & simple.
 
-create a new branch.
+create a new branch, this is a bug.
 
 this is a bug? yes, this is a bug.
