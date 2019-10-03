@@ -17,5 +17,5 @@ fast & simple.
 
 create a new branch.
 
-this is a bug? no!.
+this is a bug? yes, this is a bug.
 
